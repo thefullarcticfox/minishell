@@ -4,5 +4,5 @@
 Tested on Arch Linux, macOS 10.14 and Ubuntu
 
 ### Build and run
-1. ```make``` (if you're get linking errors - changing CC to clang in Makefiles may help)
+1. ```make``` (if you're getting linking errors - changing CC to clang in Makefiles may help)
 2. ```./minishell```

@@ -1,5 +1,5 @@
 # minishell
-42 minishell project made with [Sergey](https://github.com/Antip003) (termcaps are not implemented yet)
+42 minishell project made by [Antip003](https://github.com/Antip003) and [thefullarcticfox](https://github.com/thefullarcticfox) (termcaps are not implemented yet)
 
 Tested on Arch Linux, macOS 10.14 and Ubuntu
 
